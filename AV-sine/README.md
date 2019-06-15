@@ -1,0 +1,1 @@
+Here is a simple sine wave soniphicator. Notes are randomly triggered from Am pentatonic
